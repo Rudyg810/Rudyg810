@@ -1,7 +1,4 @@
 # 🚀 Welcome to Rudra's DevOps Fullstack Repository 🌟
-
-![DevOps GIF](https://media.giphy.com/media/26gsspfI9HT0hYFFu/giphy.gif)
-
 ## 👨‍💻 About Me
 Hi there! I’m **Rudra Gupta**, a passionate **DevOps Engineer** and **Fullstack Developer** at **Barsaati Tech**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, and deploying scalable applications on **AWS** and **Azure**.
 
@@ -45,8 +42,5 @@ Feel free to reach out if you want to collaborate on exciting fintech SaaS or De
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white) |
 |:-----------------------------------:|:------------------------------------:|
 | [LinkedIn](https://www.linkedin.com/in/rudra-gupta) | [GitHub](https://github.com/rudra-gupta) |
-
-![Deployment GIF](https://media.giphy.com/media/xUOxeZBsK7bo1iSGkE/giphy.gif)
-
 ---
 ⚡ *Empowering fintech SaaS, one automated deployment at a time!*
