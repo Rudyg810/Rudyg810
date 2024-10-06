@@ -5,7 +5,7 @@ Hi there! I’m **Rudra Gupta**, a passionate **DevOps Engineer** and **Fullstac
 
 I thrive on solving fintech SaaS problems, having worked with:
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
-- 🇨🇦 **Canadian fintech** companies focusing on infrastructure migration
+- 🇨🇦 **Canadian fintech** **FinXsystems** focusing on infrastructure migration
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
 
