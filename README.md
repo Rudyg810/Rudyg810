@@ -19,11 +19,6 @@ Here’s a brief overview of the key tools and technologies I use:
 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) |
 | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) |
 
-## 🚀 Key Projects
-- **CI/CD Pipelines**: Built robust pipelines using **Jenkins** and **Azure Pipelines** for automated testing, deployment, and monitoring.
-- **Infrastructure as Code (IaC)**: Automated infrastructure creation with **Terraform** and **Ansible**.
-- **Docker & Kubernetes**: Deployed and managed containerized microservices using **Docker** and **Kubernetes**.
-
 ### 🚀 Platform Launched:
 - **[Petrichorthrift.com](https://petrichorthrift.com)**: An e-commerce platform for unique thrift items, fully deployed with automated processes and scalable infrastructure.
 ## 📫 Contact Me
