@@ -9,16 +9,6 @@ I thrive on solving fintech SaaS problems, having worked with:
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
 
-## 🔧 Technologies & Tools
-Here’s a brief overview of the key tools and technologies I use:
-
-| DevOps Tools | Cloud Platforms | Programming Languages |
-| ------------ | --------------- | --------------------- |
-| ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge) |
-| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge) | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) |
-| ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) |
-| ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) |
-
 ### 🚀 Platform Launched:
 - **[Petrichorthrift.com](https://petrichorthrift.com)**: An e-commerce platform for unique thrift items, fully deployed with automated processes and scalable infrastructure.
 ## 📫 Contact Me
