@@ -1,6 +1,6 @@
 # 🚀 Welcome to Rudra's DevOps & Full-Stack Repository 🌟
 
-Hi there! I’m **Rudra Gupta**, a **Platform Engineer** specializing in **backend systems** and **infrastructure design**. I excel at combining backend development with DevOps principles to build scalable, reliable, and high-performance systems. At **Barsaati Tech**, I’ve gained extensive experience in **system design**, **Kubernetes orchestration**, and **Proxy gateways **, delivering seamless solutions for modern microservices architecture.
+Hi there! I’m **Rudra Gupta**, a **Platform Engineer** specializing in **backend systems** and **infrastructure design**. I excel at combining backend development with DevOps principles to build scalable, reliable, and high-performance systems. At **Barsaati Tech**, I’ve gained extensive experience in **system design**, **Kubernetes orchestration**, and **Proxy gateways**, delivering seamless solutions for modern microservices architecture.
 
 I thrive on solving fintech SaaS problems, having worked with:
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
