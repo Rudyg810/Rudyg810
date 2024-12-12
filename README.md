@@ -7,6 +7,7 @@ I thrive on solving fintech SaaS problems, having worked with:
 - 🇨🇦 **Canadian fintech** **FinXsystems** focusing on infrastructure migration
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
+- 🔗 **Personal** [**portfolio**](https://stunner-omega.vercel.app/)
 
 ### 🚀 Platform Launched:
 - **[Petrichorthrift.com](https://petrichorthrift.com)**: An e-commerce platform for unique thrift items, fully deployed with automated processes and scalable infrastructure.
