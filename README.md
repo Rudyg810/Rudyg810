@@ -1,12 +1,13 @@
-# 🚀 Welcome to Rudra's DevOps Fullstack Repository 🌟
+# 🚀 Welcome to Rudra's DevOps & Full-Stack Repository 🌟
 
-Hi there! I’m **Rudra Gupta**, a passionate **DevOps Engineer** and **Fullstack Developer** at **Barsaati Tech**. I specialize in **CI/CD pipelines**, **automation** using tools like **Terraform**, **Ansible**, and **Jenkins**, and deploying scalable applications on **AWS** and **Azure**.
+Hi there! I’m **Rudra Gupta**, a **Platform Engineer** specializing in **backend systems** and **infrastructure design**. I excel at combining backend development with DevOps principles to build scalable, reliable, and high-performance systems. At **Barsaati Tech**, I’ve gained extensive experience in **system design**, **Kubernetes orchestration**, and **Proxy gateways **, delivering seamless solutions for modern microservices architecture.
 
 I thrive on solving fintech SaaS problems, having worked with:
 - 🌍 **UAE-based** Tradesoio and GoMarket applications
 - 🇨🇦 **Canadian fintech** **FinXsystems** focusing on infrastructure migration
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
+- ⚙️ Passionate about **system design** and **building scalable backends** for fintech SaaS platforms.
 - 🔗 **Personal** [**portfolio**](https://stunner-omega.vercel.app/)
 
 ### 🚀 Platform Launched:
