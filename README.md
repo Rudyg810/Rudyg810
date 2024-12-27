@@ -8,7 +8,7 @@ I thrive on solving fintech SaaS problems, having worked with:
 - ☁️ **Azure Functions**, **Pipelines**, and automation at scale
 - 🐳 **Docker** and **Kubernetes** for container orchestration and microservice architecture
 - ⚙️ Passionate about **system design** and **building scalable backends** for fintech SaaS platforms.
-- 🔗 **Personal** [**portfolio**](https://stunner-omega.vercel.app/)
+- 🔗 **Personal** [**portfolio**](https://rudra-sde-profile.vercel.app)
 
 ### 🚀 Platform Launched:
 - **[Petrichorthrift.com](https://petrichorthrift.com)**: An e-commerce platform for unique thrift items, fully deployed with automated processes and scalable infrastructure.
