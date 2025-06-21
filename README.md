@@ -1,11 +1,11 @@
-# Welcome to Rudra's DevOps & Backend Journey 🌟
+# Welcome to my DevOps & Backend Career 🌟
 
 Hi there! 👋 I’m **Rudra Gupta**, a passionate **DevOps & Backend Engineer** who thrives on crafting scalable, reliable, and high-performance systems. With over 2.4 years of hands-on experience, I specialize in combining **backend development** with **DevOps principles** to solve challenging problems in **fintech SaaS**, **decentralized infra**, and **system design**.
 
 ## 🛠️ What I Do
 - **DevOps Expertise**  
-  - 🌐 Proficient in **Docker**, **Kubernetes**, and **Azure Functions** for seamless container orchestration and cloud-native microservices.  
-  - 🚀 Deployed and managed **500+ AI agents** on **K8s** using **Nitro Enclaves** for secure and verifiable AI computation.  
+  - 🌐 Proficient in **Docker**, **Kubernetes**, and **Azure** & **AWS** for seamless container orchestration and cloud-native microservices.  
+  - 🚀 Deployed and managed over **500+ AI agents** on **K8s** using **Nitro Enclaves** for secure and verifiable AI computation.  
   - ⚙️ Automated infrastructure scaling and CI/CD pipelines for production-grade deployments.
 
 - **Backend Systems**  
